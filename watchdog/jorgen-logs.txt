@@ -1,0 +1,1078 @@
+Checking for connection..
+
+The current date/time is: Tue Apr  3 15:47:39 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:39684722 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:604066 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2513235961 (2.3 GiB)  TX bytes:52135616 (49.7 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Tue Apr  3 15:50:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:39700334 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:604084 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2514172779 (2.3 GiB)  TX bytes:52136710 (49.7 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Tue Apr  3 16:10:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:39819939 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:604247 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2521371994 (2.3 GiB)  TX bytes:52146792 (49.7 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Tue Apr  3 16:30:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:39929357 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:604398 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2527958898 (2.3 GiB)  TX bytes:52156148 (49.7 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Tue Apr  3 16:50:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:40037069 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:604552 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2534441924 (2.3 GiB)  TX bytes:52165666 (49.7 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Tue Apr  3 17:10:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:40144554 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:604685 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2540901527 (2.3 GiB)  TX bytes:52173792 (49.7 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Tue Apr  3 17:30:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:40253019 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:604841 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2547432726 (2.3 GiB)  TX bytes:52183466 (49.7 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Tue Apr  3 17:50:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:40360206 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:605008 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2553885858 (2.3 GiB)  TX bytes:52193782 (49.7 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Tue Apr  3 18:10:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:40478598 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:605179 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2561010286 (2.3 GiB)  TX bytes:52204326 (49.7 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Tue Apr  3 18:30:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:40631037 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:605344 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2570182063 (2.3 GiB)  TX bytes:52214576 (49.7 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Tue Apr  3 18:50:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:40779600 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:605591 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2579127520 (2.4 GiB)  TX bytes:52229830 (49.8 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Tue Apr  3 19:10:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:40933120 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:605779 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2588363841 (2.4 GiB)  TX bytes:52241466 (49.8 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Tue Apr  3 19:30:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:41091767 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:605965 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2597910213 (2.4 GiB)  TX bytes:52252988 (49.8 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Tue Apr  3 19:50:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:41253726 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:606123 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2607642856 (2.4 GiB)  TX bytes:52262668 (49.8 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Tue Apr  3 20:10:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:41413796 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:606294 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2617273424 (2.4 GiB)  TX bytes:52273284 (49.8 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Tue Apr  3 20:30:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:41570296 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:606476 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2626688386 (2.4 GiB)  TX bytes:52284536 (49.8 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Tue Apr  3 20:50:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:41725148 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:606650 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2636005907 (2.4 GiB)  TX bytes:52295326 (49.8 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Tue Apr  3 21:10:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:41871964 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:606835 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2644840745 (2.4 GiB)  TX bytes:52306776 (49.8 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Tue Apr  3 21:30:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:42020860 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:607010 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2653798802 (2.4 GiB)  TX bytes:52317608 (49.8 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Tue Apr  3 21:50:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:42168516 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:607166 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2662682437 (2.4 GiB)  TX bytes:52327288 (49.9 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Tue Apr  3 22:10:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:42313856 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:607339 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2671425885 (2.4 GiB)  TX bytes:52337976 (49.9 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Tue Apr  3 22:30:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:42458971 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:607493 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2680147337 (2.4 GiB)  TX bytes:52347410 (49.9 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Tue Apr  3 22:50:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:42603823 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:607682 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2688862914 (2.5 GiB)  TX bytes:52359076 (49.9 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Tue Apr  3 23:10:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:42745162 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:607850 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2697368097 (2.5 GiB)  TX bytes:52369488 (49.9 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Tue Apr  3 23:30:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:42887198 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:608027 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2705916240 (2.5 GiB)  TX bytes:52380458 (49.9 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Tue Apr  3 23:50:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:43029234 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:608212 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2714463898 (2.5 GiB)  TX bytes:52391902 (49.9 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 00:10:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:43171742 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:608368 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2723036301 (2.5 GiB)  TX bytes:52401558 (49.9 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 00:30:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:43314553 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:608531 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2731626449 (2.5 GiB)  TX bytes:52411628 (49.9 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 00:50:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:43461026 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:608683 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2740427383 (2.5 GiB)  TX bytes:52420918 (49.9 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 01:10:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:43607379 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:608852 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2749232059 (2.5 GiB)  TX bytes:52431366 (50.0 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 01:30:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:43758580 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:609034 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2758331076 (2.5 GiB)  TX bytes:52442642 (50.0 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 01:50:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:43911624 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:609212 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2767540140 (2.5 GiB)  TX bytes:52453678 (50.0 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 02:10:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:44065540 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:609401 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2776799710 (2.5 GiB)  TX bytes:52465344 (50.0 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 02:30:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:44220836 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:609581 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2786144871 (2.5 GiB)  TX bytes:52476506 (50.0 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 02:50:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:44378771 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:609744 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2795637085 (2.6 GiB)  TX bytes:52486498 (50.0 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 03:10:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:44538914 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:609943 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2805274798 (2.6 GiB)  TX bytes:52498836 (50.0 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 03:30:28 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:44703612 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:610118 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2815184072 (2.6 GiB)  TX bytes:52509710 (50.0 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 03:50:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:44872538 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:610315 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2825347869 (2.6 GiB)  TX bytes:52521904 (50.0 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 04:10:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:45041883 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:610512 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2835541454 (2.6 GiB)  TX bytes:52534152 (50.1 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 04:30:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:45212075 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:610705 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2845781438 (2.6 GiB)  TX bytes:52546106 (50.1 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 04:50:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:45383692 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:610868 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2856095198 (2.6 GiB)  TX bytes:52556128 (50.1 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 05:10:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:45554773 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:611059 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2866390530 (2.6 GiB)  TX bytes:52567992 (50.1 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 05:30:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:45725853 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:611248 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2876680385 (2.6 GiB)  TX bytes:52579658 (50.1 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 05:50:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:45903542 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:611448 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2887371778 (2.6 GiB)  TX bytes:52592074 (50.1 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 06:10:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:46080421 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:611652 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2898016562 (2.6 GiB)  TX bytes:52604748 (50.1 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 06:30:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:46256257 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:611853 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2908597830 (2.7 GiB)  TX bytes:52617242 (50.1 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 06:50:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:46434883 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:612019 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2919333063 (2.7 GiB)  TX bytes:52627432 (50.1 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 07:10:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:46616493 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:612228 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2930267104 (2.7 GiB)  TX bytes:52640460 (50.2 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 07:30:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:46791826 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:612422 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2940816091 (2.7 GiB)  TX bytes:52652498 (50.2 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 07:50:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:46968487 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:612640 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2951452222 (2.7 GiB)  TX bytes:52666054 (50.2 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 08:10:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:47138099 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:612838 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2961661469 (2.7 GiB)  TX bytes:52678356 (50.2 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 08:30:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:47303164 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:613037 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2971597229 (2.7 GiB)  TX bytes:52690754 (50.2 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 08:50:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:47487296 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:613211 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2982664837 (2.7 GiB)  TX bytes:52701460 (50.2 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 09:10:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:47644160 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:613401 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2992102750 (2.7 GiB)  TX bytes:52713222 (50.2 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 09:30:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:47806110 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:613591 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3001852109 (2.7 GiB)  TX bytes:52725068 (50.2 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 09:50:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:47947769 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:613778 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3010378235 (2.8 GiB)  TX bytes:52736632 (50.2 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 10:10:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:48075944 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:613947 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3018091545 (2.8 GiB)  TX bytes:52747080 (50.3 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 10:30:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:48215174 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:614147 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3026481158 (2.8 GiB)  TX bytes:52759562 (50.3 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 10:50:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:48355143 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:614339 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3034909205 (2.8 GiB)  TX bytes:52771474 (50.3 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 11:10:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:48494787 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:614522 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3043314235 (2.8 GiB)  TX bytes:52782804 (50.3 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 11:30:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:48638451 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:614672 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3051948678 (2.8 GiB)  TX bytes:52791998 (50.3 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 11:50:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:48774002 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:614848 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3060104391 (2.8 GiB)  TX bytes:52802878 (50.3 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 12:10:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:48937443 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:615030 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3069936779 (2.8 GiB)  TX bytes:52814148 (50.3 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 12:30:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:49090471 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:615210 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3079142416 (2.8 GiB)  TX bytes:52825262 (50.3 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 12:50:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:49222988 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:615394 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3087126637 (2.8 GiB)  TX bytes:52836736 (50.3 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 13:10:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:49341637 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:615575 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3094272959 (2.8 GiB)  TX bytes:52847952 (50.3 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 13:30:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:49469378 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:615760 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3101963489 (2.8 GiB)  TX bytes:52859402 (50.4 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 13:50:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:49618824 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:615969 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3110962817 (2.8 GiB)  TX bytes:52872382 (50.4 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 14:10:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:49773469 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:616133 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3120254241 (2.9 GiB)  TX bytes:52882398 (50.4 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 14:30:29 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:49908894 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:616311 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3128406195 (2.9 GiB)  TX bytes:52893446 (50.4 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 14:50:30 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:50035533 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:616489 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3136028408 (2.9 GiB)  TX bytes:52904452 (50.4 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 15:10:30 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:50170949 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:616656 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3144174280 (2.9 GiB)  TX bytes:52914756 (50.4 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 15:30:30 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:50287181 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:616839 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3151176578 (2.9 GiB)  TX bytes:52926110 (50.4 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 15:50:30 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:50393073 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:616990 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3157550957 (2.9 GiB)  TX bytes:52935460 (50.4 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 16:10:30 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:50540302 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:617181 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3166416942 (2.9 GiB)  TX bytes:52947348 (50.4 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 16:30:30 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:50684204 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:617360 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3175076896 (2.9 GiB)  TX bytes:52958432 (50.5 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
+Checking for connection..
+
+The current date/time is: Wed Apr  4 16:50:30 2012
+
+p2p1      Link encap:Ethernet  HWaddr 00:60:97:6E:8E:8D  
+          inet addr:10.20.1.1  Bcast:10.20.1.255  Mask:255.255.255.0
+          inet6 addr: fe80::260:97ff:fe6e:8e8d/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:50822883 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:617520 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3183411237 (2.9 GiB)  TX bytes:52968214 (50.5 MiB)
+          Interrupt:16 Base address:0xdcc0 
+
