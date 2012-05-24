@@ -1,0 +1,17 @@
+The receiver for the data from the beagleboard. 
+
+Starting the receiver:
+./receiver
+
+Compiling:
+make
+
+Cleaning:
+make clean
+
+Descriptions:
+
+init.c - Contains the main.
+session.c - Handles multiple sessions from the client. Receives data and stores them in the corresponding folder.
+transport.c - Sends the data down the pipe.
+neighbor.c - Maintains a list of clients. 
